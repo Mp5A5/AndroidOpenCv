@@ -1,0 +1,3 @@
+rootProject.name='JavaOpenCvDemo'
+include ':app'
+include ':lib_opencv410'
